@@ -1,7 +1,7 @@
 
-  # 个人网站设计
+  # Yuxuan Ma
 
-  This is a code bundle for 个人网站设计. The original project is available at https://www.figma.com/design/TBGLHdK0NthVp2SPwNe37W/%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1.
+  This is a code bundle for Yuxuan Ma. The original project is available at https://www.figma.com/design/TBGLHdK0NthVp2SPwNe37W/Yuxuan-Ma.
 
   ## Running the code
 
